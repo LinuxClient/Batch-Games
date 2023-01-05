@@ -1,0 +1,6 @@
+vBeta 0.1.1
+Note: There are still a ton of bugs that 
+need to be fixed very soon | 1/4/22
+
+Added license key | 1/4/22
+_____________________________________

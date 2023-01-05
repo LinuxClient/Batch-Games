@@ -1,0 +1,20 @@
+vBeta 0.7.2
+______________________________________________________
+-Added Key Access | 1/3/23
+-Fixed a bug where random commands would run | 1/3/22
+-Added Window Pop-ups | 1/3/22
+______________________________________________________
+vBeta 0.7.3
+-Fixed Bug Within Key access not allowing players to
+use their keys/passwords without issue. 1/4/23
+-Fixed bug within key access allowing anyone to use
+random letters and numbers for unauthorize use of the
+game.
+______________________________________________________
+vBeta 0.7.4
+added 15 more questions to game | 1/4/23
+Fixed typo on a question | 1/4/23
+______________________________________________________
+vBeta 0.7.5
+Fixed typo on a question | 1/4/23
+______________________________________________________
